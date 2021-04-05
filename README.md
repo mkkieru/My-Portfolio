@@ -1,5 +1,5 @@
 # My Portfolio
-Project entails a brief description on who i am and allows you to get to know more about me. Languages used are HTML and css. Here you will get to know my education background, my hobbies/interests and get to view some of my projects.
+Project entails a brief description of who i am and allows you to get to know more about me. Languages used are HTML and css. Here you will get to know my education background, my hobbies/interests and get to view some of my projects.
 ## Prerequisites
 Basic Git knowledge, including an installed version of Git.
 ##### Technologies Used
