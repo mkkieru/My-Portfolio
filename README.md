@@ -19,8 +19,7 @@ To fix a bug or enhance an existing module, follow these steps:
 - Push to the branch (git push origin improve-feature)
 - Create a Pull Request
 ## Known Bugs
-If you find a bug , kindly open an issue here by including your search query and the expected result.
-If you'd like to request a new function, feel free to do so by opening an issue here. Please include sample queries and their corresponding results.
+The background image does not cover the whole page on some viewports
 ### License
 *MIT*
 Copyright (c) 2021 Mark Kieru
