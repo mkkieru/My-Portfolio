@@ -1,0 +1,23 @@
+body{
+    background-image: url(./wallpaperflare.com_wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white;
+    text-align: center;    
+}
+ul{
+   list-style-type: none; 
+}
+header{
+    color: gold;
+    padding: 20px;
+    font-size: 13px;
+}
+.f_left{
+    float: left;
+    width: 101px;
+}
+.f_right{
+    float: right;
+    width: 75px;
+}
